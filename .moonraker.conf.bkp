@@ -8,7 +8,7 @@ klippy_uds_address = ~/printer_data/comms/klippy.sock
 enable_object_processing = True
 
 [spoolman]
-server = http://10.0.0.134:7912
+server = http://10.0.0.44:7912
 sync_rate = 5
 
 [authorization]
